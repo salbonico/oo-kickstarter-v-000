@@ -13,6 +13,8 @@ if backer.backed_projects.include?(self) != true
 backer.back_project(self)
 end
 
+end
+
 
 
 end
